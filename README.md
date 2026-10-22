@@ -1,0 +1,2 @@
+# platform
+pemograman berbasisi paltform
